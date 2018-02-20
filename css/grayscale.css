@@ -44,7 +44,7 @@ a {
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
-  color: #42DCA3;
+  color: #CD1434;
 }
 
 a:focus, a:hover {
@@ -163,13 +163,13 @@ a:focus, a:hover {
   font-size: 26px;
   width: 55px;
   height: 55px;
-  margin-top: 55px;
+  margin-top: 600px;
   line-height: 45px;
   -webkit-transition: background 0.3s ease-in-out;
   -moz-transition: background 0.3s ease-in-out;
   transition: background 0.3s ease-in-out;
-  color: #CD1434;
-  border: 2px solid #CD1434;
+  color: white;
+  border: 2px solid white;
   border-radius: 100% !important;
   background: transparent;
 }
@@ -185,9 +185,6 @@ a:focus, a:hover {
   padding-bottom: 150px;
 }
 
-#artists {
-  color: #CD1434;
-}
 
 .download-section {
   color: white;
@@ -225,16 +222,16 @@ a:focus, a:hover {
 }
 
 .btn-default {
-  color: #42DCA3;
-  border: 1px solid #42DCA3;
+  color: #CD1434;
+  border: 1px solid #CD1434;
   background-color: transparent;
 }
 
 .btn-default:focus, .btn-default:hover {
   color: black;
-  border: 1px solid #42DCA3;
+  border: 1px solid #CD1434;
   outline: none;
-  background-color: #42DCA3;
+  background-color: #CD1434;
 }
 
 ul.banner-social-buttons {
